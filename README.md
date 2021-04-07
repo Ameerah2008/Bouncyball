@@ -1,2 +1,2 @@
-# Bouncyball
-Created a bouncy ball game
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
